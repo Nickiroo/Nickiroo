@@ -1,1 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=nickiro&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nickiroo&theme=horizon" />
+    <img src="https://streak-stats.demolab.com?user=nickiroo&theme=default" />
+  </picture>
+</p>
