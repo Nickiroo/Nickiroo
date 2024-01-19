@@ -17,7 +17,7 @@
 public class currentProjects(){
 	Wearable_IMU_for_research_applications_in_biomechanics() {
 		languages = {"swift", "c++"};
-		repoLink = "https://github.com/Nickiroo/Wearable-IMU";
+		repoLink = "sorry, private project";
 	}
 }
 
@@ -35,7 +35,6 @@ public class aboutMe(){
 public class goals(){
 	/*
 		Transfer to UCSD
-		Become comfortable with swift for IOS apps using BLE, pytorch, tensorflow, kotlin
 		Make another MMModule that uses the canvas/instructure API for students to use
 		and many, many more...
 	*/
@@ -53,6 +52,7 @@ public class goals(){
 			<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nickiroo&theme=horizon" />
 			<img src="https://streak-stats.demolab.com?user=nickiroo&theme=default" />
 		</picture>
+		<br>
 		Did you guys know that if its a private repo that you're doing work in that it won't show up in this tracker? Now you do!
 	</p>
 </div>
