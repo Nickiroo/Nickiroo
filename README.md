@@ -53,6 +53,7 @@ public class goals(){
 			<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nickiroo&theme=horizon" />
 			<img src="https://streak-stats.demolab.com?user=nickiroo&theme=default" />
 		</picture>
+		Did you guys know that if its a private repo that you're doing work in that it won't show up in this tracker? Now you do!
 	</p>
 </div>
 </html>
