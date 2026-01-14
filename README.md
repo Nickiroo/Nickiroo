@@ -34,7 +34,9 @@ aboutMe(){
 
 	Volleyball(){
 		me = new player(outsideHitter);
-		//experience:6ish years, USA High Performance team 2018, PCAC undefeated, played professionally in Italy's Serie A with Volley Prata di Pordenone for 2024-2025 season
+		//experience:6ish years, USA High Performance team 2018, PCAC undefeated,
+		//played professionally in Italy's Serie A with Volley Prata di Pordenone
+		//for the 2024-2025 season
 	}
 }
 
