@@ -14,25 +14,31 @@
 
 ```java
 
-public class currentProjects(){
-	Wearable_IMU_for_research_applications_in_biomechanics() {
+currentProjects(){
+	Spotify_app_for_the_apple_vision_pro {
+		languages = {"swift"}
+	}
+	real_time_blob_tracking_AVP {
+		languages = {"swift"}
+	}
+	Wearable_IMU_for_research_applications_in_biomechanics {
 		languages = {"swift", "c++"};
-		repoLink = "sorry, private project";
 	}
 }
 
-public class aboutMe(){
-	School(miramar_college_san_diego){
-		majors = {"human_biology", "comp_sci"};
-		year = "Sophomore";
+aboutMe(){
+	School(ball_state_university){
+		majors = {"premed", "comp_sci"};
+		year = "sophomore";
 	}
 
 	Volleyball(){
 		me = new player(outsideHitter);
-		//experience:6ish years, USA High Performance team 2018, PCAC undefeated
+		//experience:6ish years, USA High Performance team 2018, PCAC undefeated, played professionally in Italy's Serie A with Volley Prata di Pordenone for 2024-2025 season
 	}
 }
-public class goals(){
+
+goals(){
 	/*
 		Transfer to UCSD
 		Make another MMModule that uses the canvas/instructure API for students to use
