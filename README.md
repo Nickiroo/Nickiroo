@@ -16,12 +16,21 @@
 
 currentProjects(){
 	Spotify_app_for_the_apple_vision_pro {
+		//exactly what you would expect 
 		languages = {"swift"}
 	}
+	0hn0_solver {
+		//making an 0hn0 puzzle generator and solver
+		languages = {"python"}
+	}
 	real_time_blob_tracking_AVP {
+		//making a real-time blob tracking AR effect for the apple vision pro.
 		languages = {"swift"}
 	}
 	Wearable_IMU_for_research_applications_in_biomechanics {
+		//esp32-based wearable IMU that performs sensor fusion and uses BLE to send
+		//orientation and movement data to a mobile device or computer (limited currently to
+		//iOS, macOS, and Windows.
 		languages = {"swift", "c++"};
 	}
 }
