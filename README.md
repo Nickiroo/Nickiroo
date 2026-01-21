@@ -21,7 +21,7 @@ currentProjects(){
 	}
 	0hn0_solver {
 		//making an 0hn0 puzzle generator and solver
-		languages = {"python"}
+		languages = {"JS"}
 	}
 	real_time_blob_tracking_AVP {
 		//making a real-time blob tracking AR effect for the apple vision pro.
