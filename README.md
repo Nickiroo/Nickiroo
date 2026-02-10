@@ -64,13 +64,12 @@ goals(){
 <div style="background-color:DodgerBlue;">
 	<hr>
 	<p align="center">
-		Here's some of my github stats. Let's see how long until I burn out! <br><br>
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nickiroo&theme=horizon" />
 			<img src="https://streak-stats.demolab.com?user=nickiroo&theme=default" />
 		</picture>
 		<br>
-		Did you guys know that if its a private repo that you're doing work in that it won't show up in this tracker? Now you do!
+		Just realized private repos aren't trackable.
 	</p>
 </div>
 </html>
